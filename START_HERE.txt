@@ -1,0 +1,187 @@
+📋 DEPLOYMENT CHECKLIST FOR MOUNIKA KUCHANA
+
+Your GitHub Username: kuchanamounika
+Your Repository: mounika-kuchana-portfolio
+
+================================================================================
+🎯 WHAT YOU NEED TO DO RIGHT NOW (3 STEPS)
+================================================================================
+
+STEP 1️⃣  - CREATE REPOSITORY ON GITHUB (2 minutes)
+─────────────────────────────────────────────────────────────────────────────
+☐ Open https://github.com in your browser
+☐ Log in with username: kuchanamounika
+☐ Click the "+" icon (top right corner)
+☐ Select "New repository"
+☐ Enter Repository name: mounika-kuchana-portfolio
+☐ Enter Description: Professional MLOps & DevOps Engineer Portfolio
+☐ Select Visibility: PUBLIC
+☐ Leave "Initialize with README" UNCHECKED
+☐ Click "Create repository"
+
+Status: NOT STARTED
+👉 Do this FIRST before moving to Step 2
+
+================================================================================
+
+STEP 2️⃣  - DEPLOY PORTFOLIO FILES (2-3 minutes)
+─────────────────────────────────────────────────────────────────────────────
+☐ Open PowerShell
+☐ Copy and paste THIS ENTIRE COMMAND (all at once):
+
+cd "d:\ML\mounika-portfolio"; git config --global user.name "Mounika Kuchana"; git config --global user.email "kuchanamounika@gmail.com"; git init; git add .; git commit -m "Initial portfolio upload - MLOps Engineer"; git branch -M main; git remote add origin https://github.com/kuchanamounika/mounika-kuchana-portfolio.git; git push -u origin main
+
+☐ When prompted for password:
+   - Enter username: kuchanamounika
+   - Enter password: Your GitHub password
+   - (If password fails, use Personal Access Token from GitHub settings)
+☐ Wait for completion (should say "✓ branch set up to track 'origin/main'")
+
+Status: NOT STARTED
+👉 Do this AFTER Step 1 is complete
+
+================================================================================
+
+STEP 3️⃣  - ENABLE GITHUB PAGES (1 minute)
+─────────────────────────────────────────────────────────────────────────────
+☐ Go to: https://github.com/kuchanamounika/mounika-kuchana-portfolio
+☐ Click "Settings" button (top right)
+☐ Find "Pages" on the left menu
+☐ Under "Build and deployment":
+   ☐ Source: Select "Deploy from a branch"
+   ☐ Branch: Select "main"
+   ☐ Folder: Select "/ (root)"
+☐ Click "Save"
+☐ Wait 2-3 minutes
+
+Status: NOT STARTED
+👉 Do this AFTER Step 2 succeeds
+
+================================================================================
+
+🎉 FINAL STEP - YOUR PORTFOLIO IS LIVE!
+─────────────────────────────────────────────────────────────────────────────
+Your portfolio will be available at:
+
+   👉 https://kuchanamounika.github.io/mounika-kuchana-portfolio
+
+Copy this URL and share with recruiters! 📨
+
+================================================================================
+
+✅ VERIFICATION AFTER DEPLOYMENT
+─────────────────────────────────────────────────────────────────────────────
+☐ Visit your portfolio URL
+☐ See hero section with your name and tagline
+☐ Scroll through all 8 projects
+☐ Check "About" section shows your experience
+☐ Verify skills section is complete
+☐ Click contact links (email, phone, LinkedIn)
+☐ Test on mobile (open on phone)
+☐ Share URL with recruiters
+
+================================================================================
+
+📁 YOUR PORTFOLIO FILES (All Ready ✓)
+─────────────────────────────────────────────────────────────────────────────
+Location: d:\ML\mounika-portfolio\
+
+Files included:
+✓ index.html          → Your complete portfolio website
+✓ styles.css          → Professional styling & design
+✓ script.js           → Interactive features
+✓ README.md           → Complete documentation
+✓ PERSONALIZED_DEPLOYMENT.md → Full deployment guide
+✓ QUICK_START.txt     → Quick reference
+✓ This file           → Deployment checklist
+
+================================================================================
+
+📞 YOUR GITHUB DETAILS
+─────────────────────────────────────────────────────────────────────────────
+GitHub Username:     kuchanamounika
+GitHub Email:        kuchanamounika@gmail.com
+Repository Name:     mounika-kuchana-portfolio
+GitHub Profile:      https://github.com/kuchanamounika
+Repository URL:      https://github.com/kuchanamounika/mounika-kuchana-portfolio
+Portfolio URL:       https://kuchanamounika.github.io/mounika-kuchana-portfolio
+
+================================================================================
+
+⏱️ TIMELINE
+─────────────────────────────────────────────────────────────────────────────
+Create repo on GitHub:     2 minutes ⏳
+Deploy portfolio:          2-3 minutes ⏳
+Enable GitHub Pages:       1 minute ⏳
+GitHub builds site:        2-3 minutes ⏳
+────────────────────────────────────────
+TOTAL TIME:                ~10 minutes ✅
+
+================================================================================
+
+🆘 TROUBLESHOOTING
+─────────────────────────────────────────────────────────────────────────────
+
+❌ "Authentication failed"
+✓ Use Personal Access Token: https://github.com/settings/tokens
+✓ Or clear credentials: git credential-manager erase https://github.com
+
+❌ "Repository not found"
+✓ Make sure repo is created on GitHub first
+✓ Check repo name: mounika-kuchana-portfolio
+✓ Verify it's PUBLIC (not private)
+
+❌ "404 Page not found"
+✓ Wait 5 minutes for GitHub to build
+✓ Hard refresh browser: Ctrl+Shift+R
+✓ Check Settings → Pages
+
+❌ "fatal: not a git repository"
+✓ Make sure you're in: d:\ML\mounika-portfolio
+✓ Run: git init
+
+For more help: See PERSONALIZED_DEPLOYMENT.md
+
+================================================================================
+
+✨ WHAT YOUR PORTFOLIO INCLUDES
+─────────────────────────────────────────────────────────────────────────────
+✓ Beautiful hero section with your name
+✓ 10+ years of experience summary
+✓ 8 featured projects (AIOps, OneDev, ML Monitoring, Cloud Infrastructure, etc.)
+✓ 8 skill categories (ML, MLOps, DevOps, Cloud, Programming, etc.)
+✓ Professional experience timeline
+✓ Education & 5 certifications
+✓ Contact form & social links
+✓ Fully responsive (desktop, tablet, mobile)
+✓ Modern dark theme design
+✓ Smooth animations & transitions
+✓ Fast loading performance
+
+================================================================================
+
+🎯 NEXT IMMEDIATE ACTIONS
+─────────────────────────────────────────────────────────────────────────────
+
+RIGHT NOW:
+1. Open https://github.com
+2. Login with: kuchanamounika
+3. Create repository: mounika-kuchana-portfolio
+4. Make it PUBLIC
+
+THEN:
+5. Run the deployment command in PowerShell
+
+THEN:
+6. Enable GitHub Pages
+
+THEN:
+7. Share your portfolio URL with recruiters!
+
+================================================================================
+
+Questions? Email: kuchanamounika@gmail.com
+Phone: +91 9392031368
+LinkedIn: linkedin.com/in/mounika-kuchana-8882b7ab
+
+Your portfolio will be publicly available in under 10 minutes! 🚀
